@@ -1,0 +1,23 @@
+{
+  "name": "tumo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flamen1us/tumo.git"
+  },
+  "author": "Artemii Polishchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flamen1us/tumo/issues"
+  },
+  "homepage": "https://github.com/Flamen1us/tumo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
